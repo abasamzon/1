@@ -16,8 +16,8 @@ window.MY_STORE_CONFIG = {
 
     // 2. إعدادات الصور (Cloudinary)
     cloudinary: {
-        cloudName: "dongmlmoj",
-        uploadPreset: "app_upload"
+        cloudName: "dp6gbp0nc",
+        uploadPreset: "FGGD-F"
     },
 
     // 3. رمز دخول الأدمن
