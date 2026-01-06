@@ -2,24 +2,26 @@
 // === إعدادات المتجر (قم بتعديل البيانات هنا لكل زبون) ===
 
 window.MY_STORE_CONFIG = {
-  firebase: {
-    apiKey: "AIzaSyCgkFgl6A2Nxrw0AlZnHvLY7e2iS0CeyJ4",
-    authDomain: "klj-c094b.firebaseapp.com",
-    databaseURL: "https://klj-c094b-default-rtdb.firebaseio.com",
-    projectId: "klj-c094b",
-    storageBucket: "klj-c094b.firebasestorage.app",
-    messagingSenderId: "412021688396",
-    appId: "1:412021688396:web:4a93b27824cfc52055cce9",
-    measurementId: "G-NKW82Z038E"
-  },
+    // 1. ضع كود فيربايس هنا (نسخ ولصق من موقع فيربايس)
+    firebase: {
+        apiKey: "AIzaSyDX0esBRiQ4MuyvWH_s2UZ2kJpA9GryDgE",
+        authDomain: "tttttt-48c2e.firebaseapp.com",
+        databaseURL: "https://tttttt-48c2e-default-rtdb.firebaseio.com",
+        projectId: "tttttt-48c2e",
+        storageBucket: "tttttt-48c2e.firebasestorage.app",
+        messagingSenderId: "982883301644",
+        appId: "1:982883301644:web:7b1676215cb4f0fe7c7129",
+        measurementId: "G-QLCYC16T20"
+    },
 
-  cloudinary: {
-    cloudName: "dp6gbp0nc",
-    uploadPreset: "FGGD-F"
-  },
+    // 2. ضع إعدادات الصور (Cloudinary) هنا
+    cloudinary: {
+        cloudName: "dongmlmoj",  // اسم الكلاود
+        uploadPreset: "app_upload" // اسم البريسيت (تأكد من إنشائه في حساب الزبون)
+    },
 
-  security: {
-    adminCode: "10001"
-  }
+    // 3. رمز دخول الأدمن
+    security: {
+        adminCode: "1001"
+    }
 };
-
