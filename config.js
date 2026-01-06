@@ -19,7 +19,7 @@ window.MY_STORE_CONFIG = {
   },
 
   security: {
-    adminCode: "1001"
+    adminCode: "10001"
   }
 };
 
