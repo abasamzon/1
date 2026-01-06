@@ -22,3 +22,4 @@ window.MY_STORE_CONFIG = {
     adminCode: "1001"
   }
 };
+
