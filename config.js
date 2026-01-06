@@ -3,14 +3,14 @@
 
 window.MY_STORE_CONFIG = {
   firebase: {
-    apiKey: "AIzaSyBwzzJqPNa08mPBZNMuvExxCJzkToV65rE",
-    authDomain: "project-4623091190980149681.firebaseapp.com",
-    databaseURL: "https://project-4623091190980149681-default-rtdb.firebaseio.com",
-    projectId: "project-4623091190980149681",
-    storageBucket: "project-4623091190980149681.firebasestorage.app",
-    messagingSenderId: "252053182084",
-    appId: "1:252053182084:web:b35a5e3c7d6777e79a94d1",
-    measurementId: "G-H7JJBWJGQR"
+    apiKey: "AIzaSyCgkFgl6A2Nxrw0AlZnHvLY7e2iS0CeyJ4",
+    authDomain: "klj-c094b.firebaseapp.com",
+    databaseURL: "https://klj-c094b-default-rtdb.firebaseio.com",
+    projectId: "klj-c094b",
+    storageBucket: "klj-c094b.firebasestorage.app",
+    messagingSenderId: "412021688396",
+    appId: "1:412021688396:web:4a93b27824cfc52055cce9",
+    measurementId: "G-NKW82Z038E"
   },
 
   cloudinary: {
